@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mon Carnet de Recettes</string>
+    <string name="le_contenu_de_la_recette">Le contenu de la recette</string>
+    <string name = "le_nom_de_la_recette">Le nom de la recette</string>
+    <string name = "la_liste_de_recettes">La liste des recettes</string>
+    <string name="le_titre_de_la_recette">Le titre de la recette</string>
+    <string name="ajout_d_une_recette">Ajout d\'une recette</string>
+
+    <string name="la_note_de_la_recette">La note de la recette</string>
+</resources>

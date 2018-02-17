@@ -1,0 +1,11 @@
+Auteur : DESAMAIS Florian
+
+Cette application permet d'ajouter des recettes.
+Elle contient une recycler view pour l'affichage de cette liste.
+L'enregistrement des données se fait dans une base de données
+SQLite.
+
+Cette application est de la forme Master-Detail.
+
+Cependant, elle ne contient pas de système de notifications
+ni de connexion à un service extérieur.
